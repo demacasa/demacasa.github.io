@@ -1,0 +1,5 @@
+baseURL = 'https://blog.demacasa.com/'
+languageCode = 'en-us'
+title = 'DemaBlog'
+theme = "terminal"
+
